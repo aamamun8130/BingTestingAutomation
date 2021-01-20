@@ -1,0 +1,23 @@
+{
+  "name": "bing-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor dist/conf"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "xlsx": "^0.16.9"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "@types/mocha": "^8.2.0",
+    "@types/protractor": "^4.0.0"
+  }
+}
